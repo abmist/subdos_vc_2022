@@ -1,0 +1,3 @@
+[submodule "subdeep_vc_2022"]
+	path = subdeep_vc_2022
+	url = git@github.com:abmist/subdeep_vc_2022.git
